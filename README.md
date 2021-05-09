@@ -1,6 +1,8 @@
-### Hello visitor 👋
+### Howdy pardner 🤠
 
-Welcome to my Github page.
+Welcome! I’m a self-taught, multi-disciplinary front end web developer with a diverse professional background current working for [Rheaply](https://rheaply.com). I create UIs that are beautiful, accessible, intuitive, and performant for users, while also reusable, extensible, and maintainable for other developers.
+
+I’m inspired by technology that actively strives to make the world a better place. In addition, I volunteer my expertise regularly to help non profit organizations with missions that move me.
 
 <!--
 **nickharriscodes/nickharriscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
