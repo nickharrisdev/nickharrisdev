@@ -1,6 +1,6 @@
 ### Howdy pardner 🤠
 
-I’m a self-taught web developer with a diverse professional background currently on the [Rheaply](https://rheaply.com) product and engineering team. I create UIs that are beautiful, accessible, intuitive, and performant for users, while also reusable, extensible, and maintainable for other developers.
+I’m a self-taught software engineer with a diverse professional background currently on the [Rheaply](https://rheaply.com) product and engineering team. I create UIs that are beautiful, accessible, intuitive, and performant for users, while also reusable, extensible, and maintainable for other developers.
 
 I’m inspired by technology that actively strives to make the world a better place. In addition, I volunteer my expertise regularly to help non profit organizations with missions that move me.
 
