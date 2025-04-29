@@ -1,8 +1,8 @@
 ### Howdy pardner 🤠
 
-I’m a Senior Software Engineer with a diverse professional background currently on the [Rheaply](https://rheaply.com) product and engineering team. I craft UIs that are beautiful, accessible, and performant for users while ensuring they are reusable, extensible, and maintainable for engineering teams.
+I'm a product-minded software engineer who believes the most important part of software is the people — both those who build it and those who use it. I see software as a medium for communicating intentions, reflecting human relationships, and solving real-world problems with empathy and purpose. Technology excites me most when it's used effectively to meet meaningful needs and bring people closer together.
 
-Beyond building great software, I'm passionate about mentoring, improving developer experience, and contributing to technology that makes a meaningful impact. I also volunteer my expertise to support nonprofit organizations whose missions inspire me.
+Specializing in front-end development, I create user interfaces that are beautiful, accessible, intuitive, and performant — for users — and reusable, extensible, and maintainable — for developers. I care deeply about building thoughtful tools that last, empower, and inspire.
 
 <!--
 **nickharriscodes/nickharriscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
